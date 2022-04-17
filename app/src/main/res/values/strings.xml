@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AlarmTest</string>
+    <string name="notify_sleep_diary_title">수면일기 기록시간입니다.</string>
+    <string name="notify_sleep_diary_message">전날 하루는 어떠셨나요? 수면일기에 기록해 주세요.</string>
+    <string name="notify_morning_title">기상 후, 30분간 올리를 사용해 주세요.</string>
+    <string name="notify_morning_message">아침 빛 권장 시간 입니다. 올리와 함께 아침을 시작 해주세요.</string>
+    <string name="notify_evening_title">저녁시간 올리와 함께 휴식하세요.</string>
+    <string name="notify_evening_message">저녁 빛 권장 시간 입니다. </string>
+    <string name="notify_sleep_title">취침 전 은은하게 올리와 함께하세요.</string>
+    <string name="notify_sleep_message">수면 빚 권장 시간 입니다. 자기전에는 올리의 수면 빛만 사용 해주세요.</string>
+    <string name="notify_miss_diary_title">수면일기 작성을 잊어버리지 않았나요?</string>
+    <string name="notify_miss_diary_message">오늘 수면일기를 작성하지 않았습니다. 지금 작성 부탁드려요.</string>
+</resources>
